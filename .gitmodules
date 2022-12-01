@@ -1,0 +1,6 @@
+[submodule "2021-swift"]
+	path = 2021-swift
+	url = git@github.com:romanpeters/advent-of-code-2021.git
+[submodule "2022-python"]
+	path = 2022-python
+	url = git@github.com:romanpeters/advent-of-code-2022.git
